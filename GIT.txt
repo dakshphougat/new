@@ -1,1 +1,2 @@
 GIT
+This is an additional sample
